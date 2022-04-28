@@ -1,0 +1,25 @@
+Added Component: Designator=L1(SPM7054VT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/spm7054vt-101m-d/tdk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/SPM7054VT-101M-D/?qs=byeeYqUIh0MPh4h9VcxBVA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L2(SPM7054VT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/spm7054vt-101m-d/tdk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/SPM7054VT-101M-D/?qs=byeeYqUIh0MPh4h9VcxBVA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Pin To Net: NetName=NetC6_2 Pin=L2-1
+Added Pin To Net: NetName=+3V3 Pin=L2-2
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,49 @@
+Added Component: Designator=IC3(QFN50P600X600X80-41N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADIN1100CCPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adin1100ccpz/analog-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/adin1100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADIN1100CCPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADIN1100CCPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADIN1100CCPZ?qs=pUKx8fyJudC406QBDc8dqQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=TXD_3 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=LINK_ST Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_5 Pin=IC3-5
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_7 Pin=IC3-7
+Added Pin To Net: NetName=NetC32_1 Pin=IC3-8
+Added Pin To Net: NetName=NetC33_1 Pin=IC3-9
+Added Pin To Net: NetName=TXN Pin=IC3-12
+Added Pin To Net: NetName=RXN Pin=IC3-13
+Added Pin To Net: NetName=RXP Pin=IC3-14
+Added Pin To Net: NetName=TXP Pin=IC3-15
+Added Pin To Net: NetName=+3V3 Pin=IC3-16
+Added Pin To Net: NetName=+3V3 Pin=IC3-17
+Added Pin To Net: NetName=NetC38_2 Pin=IC3-19
+Added Pin To Net: NetName=NetC39_2 Pin=IC3-20
+Added Pin To Net: NetName=+3V3 Pin=IC3-22
+Added Pin To Net: NetName=NetC42_2 Pin=IC3-23
+Added Pin To Net: NetName=NetC42_2 Pin=IC3-24
+Added Pin To Net: NetName=NetIC3_26 Pin=IC3-26
+Added Pin To Net: NetName=NetIC3_27 Pin=IC3-27
+Added Pin To Net: NetName=RXD_3 Pin=IC3-28
+Added Pin To Net: NetName=RXD_2 Pin=IC3-29
+Added Pin To Net: NetName=RXD_1 Pin=IC3-30
+Added Pin To Net: NetName=RXD_0 Pin=IC3-31
+Added Pin To Net: NetName=RX_CLK Pin=IC3-32
+Added Pin To Net: NetName=RX_DV Pin=IC3-33
+Added Pin To Net: NetName=RX_ER Pin=IC3-34
+Added Pin To Net: NetName=+3V3 Pin=IC3-35
+Added Pin To Net: NetName=NetIC3_36 Pin=IC3-36
+Added Pin To Net: NetName=NetIC3_37 Pin=IC3-37
+Added Pin To Net: NetName=NetIC3_38 Pin=IC3-38
+Added Pin To Net: NetName=NetIC3_39 Pin=IC3-39
+Added Pin To Net: NetName=NetIC3_40 Pin=IC3-40
+Added Pin To Net: NetName=GND Pin=IC3-41
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

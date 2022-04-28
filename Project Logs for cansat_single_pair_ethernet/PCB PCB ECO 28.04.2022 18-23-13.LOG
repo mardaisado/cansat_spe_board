@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Designator Member=IC3
+Added Component: Designator=D5(CPDH3V3UP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPDH3V3UP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpdh3v3up/comchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1846145.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.77mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPDH3V3UP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "750-CPDH3V3UP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CPDH3V3UP?qs=tw%252BuQ%2FB6PO1cIMMFw61gpA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=T4+ Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
