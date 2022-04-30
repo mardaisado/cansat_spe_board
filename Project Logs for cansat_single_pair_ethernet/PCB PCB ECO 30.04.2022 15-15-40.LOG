@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=T1+ Pin=L4-2
+Removed Pin From Net: NetName=T1- Pin=L4-3
+Added Pin To Net: NetName=T1- Pin=L4-1
+Added Pin To Net: NetName=T1+ Pin=L4-4
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R33-1
+Added Pin To Net: NetName=NetL4_2 Pin=R34-2
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL4_3 Pin=L4-3
+Added Pin To Net: NetName=NetL4_3 Pin=R20-1
+Added Pin To Net: NetName=NetL4_3 Pin=R21-2
+Added Net: Name=NetL4_3
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R72 Old Footprint=RESISTOR 1608 REFLOW New Footprint=RESISTOR 1005 REFLOW
+Change Component Footprint: Designator=R73 Old Footprint=RESISTOR 1608 REFLOW New Footprint=RESISTOR 1005 REFLOW
+Change Component Footprint: Designator=R74 Old Footprint=RESISTOR 1608 REFLOW New Footprint=RESISTOR 1005 REFLOW
+Change Component Footprint: Designator=R75 Old Footprint=RESISTOR 1608 REFLOW New Footprint=RESISTOR 1005 REFLOW
+Change Component Footprint: Designator=R76 Old Footprint=RESISTOR 1608 REFLOW New Footprint=RESISTOR 1005 REFLOW
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
