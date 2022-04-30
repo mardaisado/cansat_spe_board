@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C45 Old Footprint=CAPACITOR 1608 REFLOW New Footprint=CAPACITOR 3216 REFLOW
+Change Component Footprint: Designator=C47 Old Footprint=CAPACITOR 1608 REFLOW New Footprint=CAPACITOR 3216 REFLOW
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

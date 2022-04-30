@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=EARTH Pin=C48-2
+Added Pin To Net: NetName=EARTH Pin=C49-2
+Added Pin To Net: NetName=EARTH Pin=J3-3
+Added Pin To Net: NetName=EARTH Pin=R77-1
+Added Net: Name=EARTH
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=U1 Old Footprint=LQFP144 P0.5 C20.0x20.0 H1.6 New Footprint=LQFP144_0R5_SKT
+Added Component: Designator=R77(RESC5125X74N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRMA2010AF1K00FKEF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crma2010af1k00fkef/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/68043/crma.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRMA2010AF1K00FKEF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRMA2010AF1K00FKF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Techno/CRMA2010AF1K00FKEF?qs=1mbolxNpo8fLEeNjiEgpoA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=GND Pin=R77-2
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Member From Class: ClassName=Designator Member=C29
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
